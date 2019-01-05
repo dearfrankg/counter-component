@@ -1,4 +1,4 @@
-# tic-tac-toe-component
+# counter-component
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
@@ -12,7 +12,7 @@
 
 ## demo
 
-- [demo]()
+- [demo](http://precious-ants.surge.sh/)
 
 [build-badge]: https://img.shields.io/travis/dearfrankg/counter-component/master.png?style=flat-square
 [build]: https://travis-ci.org/dearfrankg/counter-component
